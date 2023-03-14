@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -i -d ^c > hiago
+tr -d "c" "C"
