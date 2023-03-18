@@ -1,0 +1,2 @@
+#!/bin/bash
+echo {a{a}..z{z}} "*{o{o}}" | \n | wc -l
